@@ -14,7 +14,7 @@ path = "src/main/rust/bootagent/main.rs"
 [dependencies]
 anyhow = "1.0"
 dotproperties = "0.1"
-env_logger = "0.8"
+env_logger = "0.9"
 fasthash = "0.4"
 log = "0.4"
 memmap = "0.7"
